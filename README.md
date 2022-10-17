@@ -13,6 +13,8 @@ $ pip3 install virtualenv
 $ virtualenv env
 ```
 
+NOTE: Scrap the venv if you are deploying to a virtual compute instance for long-term demo setup.
+
 3. Then run the command:
 ```
 $ source env/bin/activate
